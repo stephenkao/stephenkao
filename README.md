@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi hello hi 👋
 
-<!--
-**stephenkao/stephenkao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Stephen.
 
-Here are some ideas to get you started:
+Here are some places you're likely to find me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Fakespot](https://www.fakespot.com) by [Mozilla](https://www.mozilla.org) 💼
+- [SoundCloud](https://soundcloud.com/yyyuchen) 🎶
+- [Brooklyn](https://maps.app.goo.gl/jU5uwWAgGG4UbUrM8) 🛌
+
+Here are some places you're unlikely to find me:
+
+- [Facebook](https://www.facebook.com) ❌
+- [Paris](https://maps.app.goo.gl/CvQAQ4ELwdXRmNTr8) 😪
+- [Lucky Lee's](https://ny.eater.com/2019/12/6/20999639/lucky-lees-greenwich-village-clean-chinese-closed) 🙄
+
