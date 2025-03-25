@@ -1,8 +1,8 @@
-## Hi hello hi 👋
+## Hi hello hi 👋 // 嗨哈囉嗨 👋
 
-I'm Stephen.
+I'm Stephen. // 我是高宇辰。
 
-Here are some places you're likely to find me:
+I'm probably hiding out here: // 我大概躲在：
 
 - [Fakespot](https://www.fakespot.com) by [Mozilla](https://www.mozilla.org) 💼
 - [SoundCloud](https://soundcloud.com/yyyuchen) 🎶
