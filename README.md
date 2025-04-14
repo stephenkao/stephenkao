@@ -4,6 +4,6 @@ I'm Stephen. // 我是高宇辰。
 
 I'm probably hiding out here: // 我大概躲在：
 
-- [Fakespot](https://www.fakespot.com) by [Mozilla](https://www.mozilla.org) 💼
+- [Kaizen Labs](https://www.kaizenlabs.co/)
 - [SoundCloud](https://soundcloud.com/yyyuchen) 🎶
 - [Brooklyn](https://maps.app.goo.gl/jU5uwWAgGG4UbUrM8) 🛌
