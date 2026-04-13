@@ -7,7 +7,7 @@ I'm probably hiding out here: // 我大概躲在：
 - [Kaizen Labs](https://www.kaizenlabs.co/) 🧳
 - [CHiPS](https://www.chipsonline.org/volunteer/) 🧑‍🌾 (Consider volunteering!)
 - [Distributed Proofreaders](https://www.pgdp.net) 👓 (Consider volunteering here too!)
-- [Earth](https://eyes.nasa.gov/apps/orrery/#/earth)
+- [Earth](https://eyes.nasa.gov/apps/orrery/#/earth) 👽
 
 # SUPPORT YOUR LOCAL LIBRARY
 
