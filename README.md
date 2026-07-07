@@ -3,7 +3,7 @@
 I'm Stephen. // 我是高宇辰。
 
 I'm probably hiding out here: // 我大概躲在：
-
+- [Substack](https://substack.com/) 🧳
 - [Bandcamp](https://yyyuchen.bandcamp.com/) 🎶
 - [CHiPS](https://www.chipsonline.org/volunteer/) 🧑‍🌾 (Consider volunteering!)
 - [Distributed Proofreaders](https://www.pgdp.net) 👓 (Consider volunteering here too!)
